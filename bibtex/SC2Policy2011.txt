@@ -1,0 +1,12 @@
+@article{10.1109/POLICY.2011.22,
+author = {Nicola Dragoni and Eduardo Lostal and Davide Papini},
+title = {(SC)²: A System to Secure Off-Card Contract-Policy Matching in Security-by-Contract for Open Multi-application Smart Cards},
+journal ={Policies for Distributed Systems and Networks, IEEE International Workshop on},
+volume = {0},
+isbn = {978-0-7695-4330-7},
+year = {2011},
+pages = {186-187},
+doi = {http://doi.ieeecomputersociety.org/10.1109/POLICY.2011.22},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+}

@@ -1,0 +1,12 @@
+@article{10.1109/POLICY.2011.40,
+author = {Nicola Dragoni and Eduardo Lostal and Olga Gadyatskaya and Fabio Massacci and Federica Paci},
+title = {A Load Time Policy Checker for Open Multi-application Smart Cards},
+journal ={Policies for Distributed Systems and Networks, IEEE International Workshop on},
+volume = {0},
+isbn = {978-0-7695-4330-7},
+year = {2011},
+pages = {153-156},
+doi = {http://doi.ieeecomputersociety.org/10.1109/POLICY.2011.40},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+}

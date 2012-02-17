@@ -1,0 +1,6 @@
+@mscthesis{ELostalMScTSxC2010,
+  author = {E. Lostal},
+  title = {Securing Multi-Application Smart Cards by Security-by-Contract [M.Sc. Thesis]},
+  institution = {Technical University of Denmark (DTU)},
+  year = {2011}
+}

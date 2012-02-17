@@ -1,0 +1,16 @@
+@incollection {springerlink:10.1007/978-3-642-27901-0_4,
+   author = {Dragoni, Nicola and Lostal, Eduardo and Papini, Davide and Fabra, Javier},
+   affiliation = {DTU Informatics, Technical University of Denmark, Denmark},
+   title = {{SC}^2: Secure Communication over Smart Cards - How to Secure Off-Card Matching in Security-by-Contract for Open Multi-Application Smart Cards},
+   booktitle = {Foundations and Practice of Security},
+   series = {Lecture Notes in Computer Science},
+   editor = {Garcia-Alfaro, Joaquin and Lafourcade, Pascal},
+   publisher = {Springer Berlin / Heidelberg},
+   isbn = {978-3-642-27900-3},
+   keyword = {Computer Science},
+   pages = {32-48},
+   volume = {6888},
+   url = {http://dx.doi.org/10.1007/978-3-642-27901-0_4},
+   note = {10.1007/978-3-642-27901-0_4},
+   year = {2012}
+}

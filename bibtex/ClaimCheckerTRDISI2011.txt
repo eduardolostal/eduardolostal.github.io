@@ -1,0 +1,6 @@
+@TECHREPORT{ClaimCheckerTRDISI2011,
+  author = {Gadyatskaya, Olga and Lostal, Eduardo and Massacci, Fabio},
+  title = {Load Time Security Verification: The Claim Checker},
+  institution = {Informatica e Studi Aziendali, University of Trento, Italy},
+  year = {2011}
+}

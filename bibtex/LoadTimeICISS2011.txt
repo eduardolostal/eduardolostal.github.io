@@ -1,0 +1,7 @@
+@inproceedings{LoadTimeICISS2011,
+  author = {O. Gadyatskaya, E. Lostal and F. Massacci},
+  title = {Load Time Security Verification},
+  publisher = {Springer in LNCS},
+  booktitle = {Proc. of the Seventh International Conference on Information Systems Security (ICISS 2011), Kolkata, India},
+  year = {2011}
+}

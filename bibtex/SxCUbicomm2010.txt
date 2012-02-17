@@ -1,0 +1,7 @@
+@inproceedings{SxCUbicomm2010,
+  author = {N. Dragoni and  E. Lostal and D. Papini and J. Fabra},
+  title = {Securing Off-Card Contract-Policy Matching in Security-By-Contract for Multi-Application Smart Cards [short paper]},
+  publisher = {XPS},
+  booktitle = {Proc. of UBICOMM'10},
+  year = {2010},
+}
